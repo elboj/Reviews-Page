@@ -1,7 +1,4 @@
 # react-projects-7-slider
 
-#### IN ACTION
 
-[Gatsby-Airtable Project](https://gatsby-airtable-design-project.netlify.app/)
-# Reviews-Page
-# Reviews-Page
+# Simple reviews page using react
